@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/bdenham/myblog/
+    url: https://content.da.live/bdenham/myblog/index
     type: markup
